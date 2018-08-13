@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ABC College</string>
+    <string name="department_label">Departments</string>
+    <string name="add_department_label">Add Department</string>
+    <string name="teachers_label">Teachers</string>
+    <string name="add_delete_label"><![CDATA[Add & Delete Teacher]]></string>
+</resources>

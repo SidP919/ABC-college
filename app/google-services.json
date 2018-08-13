@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "647873382127",
+    "firebase_url": "https://abccollege-78540.firebaseio.com",
+    "project_id": "abccollege-78540",
+    "storage_bucket": "abccollege-78540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647873382127:android:d0cda48c644d0296",
+        "android_client_info": {
+          "package_name": "com.example.android.abccollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647873382127-d0q00bhctc8i9l0umts59cki7lqih8rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.abccollege",
+            "certificate_hash": "000fd187a2f7a340036cc1ea86ff77d2cf5067d3"
+          }
+        },
+        {
+          "client_id": "647873382127-j4gns2p7s85ko2uf2art4jajjlaoaebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5sk3CdUZytBbGxdRzNYJPhURvaxBDfk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647873382127-j4gns2p7s85ko2uf2art4jajjlaoaebk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
